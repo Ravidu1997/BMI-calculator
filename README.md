@@ -1,13 +1,26 @@
 ## BMI Calculator App in React Native
 
-### Logo
+React native application for calculate body mass index of person.
+So form this we can choose the status of the BMI with your weight vs height.
 
+## Install
 
-<img src="assets/Images/logo.gif" height="200" >
+Clone the code by opening shell in specific folder.
 
+```shell
+git clone <github Code Link>
+```
 
+To install dependencies.
 
-### Screenshots
-<img src="assets/Images/screenshot1.png" height="500" >
+```shell
+npm install
+```
 
-<img src="assets/Images/schreenshot2.png" height="500" >
+Then start by.
+
+```shell
+npm start
+
+Thank You!
+```
